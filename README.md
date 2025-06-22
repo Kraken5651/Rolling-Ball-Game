@@ -29,7 +29,7 @@ A 3D Unity game where the player controls a rolling ball to collect 5 pickup ite
 3. Open `SampleScene` and click Play
 
 ## ✅ Status
-✅ Completed – May 2025
+✅ Completed – June 2025
 
 ## 🙌 Author
 **Karan Kumar**  
